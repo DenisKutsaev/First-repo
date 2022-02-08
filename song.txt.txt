@@ -7,4 +7,4 @@ bebebekakakaka
 bla bla bla
 hi!
 line for new branch
-conflict
+conflict1
